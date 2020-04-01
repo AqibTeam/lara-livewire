@@ -1,1 +1,1 @@
-# Getsarted with Livewire
+# Get sarted with Livewire
