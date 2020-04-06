@@ -24,6 +24,9 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "@fortawesome/fontawesome-free": "^5.13.0"
+        "@fortawesome/fontawesome-free": "^5.13.0",
+        "materialize-css": "^1.0.0",
+        "materialize-sass": "^0.98.2",
+        "turbolinks": "^5.2.0"
     }
 }
